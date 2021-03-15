@@ -2,7 +2,8 @@
 
 This project was created with React and importing an external database.
 
-![alt text](https://ibb.co/KX0bdvJ "image of netflix app")
+
+![Screenshot](netflix.jpg)
 
 ## Available Scripts
 
