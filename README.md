@@ -7,7 +7,7 @@ This project was created with React and importing an external database.
 
 ## Made with React
 
-This project was alot of fun and has some nice rollover animations and smooth scroll features built-in.
+This project was alot of fun and has some nice rollover animations and smooth scroll features built-in. Used axios to pull in data from exteral movie database.
 
 The final app can be viewed here  <a href="https://netflix-clone-69965.web.app/"> Netflix clone</a>  - use back arrow to get back to this github page.
 
